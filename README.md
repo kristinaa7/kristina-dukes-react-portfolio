@@ -1,14 +1,11 @@
-Kristina Dukes React Portfolio
+# Kristina Dukes React Portfolio
 
 ## Description
 
-Welcome to my portfolio! 
+Welcome to my personal portfolio webpage built with React.js. 
 
 ## Usage
-
-You’ll deploy this application to GitHub Pages. Follow the instructions in the Git Guide or consult the [Create React App Docs on GitHub Pages](https://create-react-app.dev/docs/deployment/#github-pages) to create a build that you can deploy.
-
-**Important**: Be sure to push your codebase to the default branch in GitHub -- NOT your built and deployed code. Ensure this happens by using the `gh-pages` branch to host the deployed application's build.
+To run the app in development mode: open up the integrated terminal and run `npm run start`
 
 ## Resources 
 https://www.freecodecamp.org/news/build-portfolio-website-react/ 
