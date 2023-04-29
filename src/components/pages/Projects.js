@@ -13,27 +13,7 @@ function Projects() {
                     fuga dolore.
                 </p>
             </div>
-            {/* <div>
-                <a
-                    href={projects.link}
-                    key={projects.image}>
-                    <div>
-                        <img
-                            alt="gallery"
-                            src={project.image}
-                        />
-                        <div>
-                            <h2>
-                                {project.subtitle}
-                            </h2>
-                            <h1>
-                                {project.title}
-                            </h1>
-                            <p>{project.description}</p>
-                        </div>
-                    </div>
-                </a>
-            </div> */}
+           
         </section>
     );
 
