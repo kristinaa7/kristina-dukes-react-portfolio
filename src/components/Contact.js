@@ -8,6 +8,15 @@ function Contact() {
     <section id="contact">
 
     </section>
+
+return (
+    <div>
+    <h1>Contact Page</h1>
+    <p>
+      Contact me at kristina@pretend.com
+    </p>
+  </div>
+);
 }
 
 export default Contact;
