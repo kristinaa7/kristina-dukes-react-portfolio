@@ -1,5 +1,5 @@
 import React from "react";
-import kristina from "../../images/kristina.png";
+let kristina = "/assets/images/kristina.png";
 
 function About() {
     return (
