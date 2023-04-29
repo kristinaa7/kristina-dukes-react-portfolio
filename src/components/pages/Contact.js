@@ -1,6 +1,19 @@
 import React from "react";
 
-function Contact() {
+function ContactForm() {
+  const [formStatus, setFormStatus] = React.useState('Send')
+  const handleOnSubmit = (event) => {
+    event.preventDefault()
+    setFormStatus('Submitting...')
+    const { name, email, message } = e.target.elements
+    let formElements = {
+      name: name.value,
+      email: email.value,
+      message: message.value,
+    }
+    console.log(formElements)
+  }
+
     const [name, setName] = React.useState("");
     const [email, setEmail] = React.useState("");
     const [message, setMessage] = React.useState("");
