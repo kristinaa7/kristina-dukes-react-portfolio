@@ -1,5 +1,4 @@
 import React from "react";
-import { projects } from "../../data";
 
 function Projects() {
     return (
@@ -14,10 +13,10 @@ function Projects() {
                     fuga dolore.
                 </p>
             </div>
-            <div>
+            {/* <div>
                 <a
-                    href={project.link}
-                    key={project.image}>
+                    href={projects.link}
+                    key={projects.image}>
                     <div>
                         <img
                             alt="gallery"
@@ -34,7 +33,7 @@ function Projects() {
                         </div>
                     </div>
                 </a>
-            </div>
+            </div> */}
         </section>
     );
 
