@@ -2,10 +2,10 @@ import React from 'react';
 
 function Home() {
   return (
-    <div>
+    <div style={{textAlign: "center"}}>
       <h1>Welcome to Kristina's Portfolio</h1>
       <p>
-        Description to come
+        CSS coming soon
       </p>
     </div>
   );

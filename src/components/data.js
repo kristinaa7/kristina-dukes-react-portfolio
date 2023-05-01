@@ -30,4 +30,20 @@ export const projects = [
         image: "assets/images/workdayscheduler.png",
         link: "https://github.com/kristinaa7/work-day-scheduler",
       },
+      {
+        title: "Refactoring Starter Code",
+        subtitle: "First Challenge to Debug Starter Code Assignment",
+        description:
+          "Refactoring a website to simply make it more accessible and functional for users using CSS and HTML",
+        image: "assets/images/debugging.png",
+        link: "https://github.com/kristinaa7/intro-to-cleaning-up-starter-code",
+      },
+      {
+        title: "Password Generator",
+        subtitle: "Javascript Challenge Assignment",
+        description:
+          "User-friendly random password generator that will create passwords ranging from 8-128 characters",
+        image: "assets/images/passwordgenerator.png",
+        link: "https://github.com/kristinaa7/unique-random-password-generator",
+      },
 ]

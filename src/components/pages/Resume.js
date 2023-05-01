@@ -5,7 +5,7 @@ let myResume = "/assets/images/myResume.pdf";
 
 function Resume() {
   return (
-    <section>
+    <section style={{textAlign: "center"}}>
     <h2>Resume</h2>
     <a href={process.env.PUBLIC_URL+myResume} target="_blank" rel="noreferrer">
       <IconContext.Provider
@@ -19,7 +19,8 @@ function Resume() {
       </IconContext.Provider>
     </a>
     <h3>Education</h3>
-    <p>Full-Stack Coding Boot Camp Completion Certificate</p>
+    <p>In progress: <br></br>
+      Full-Stack Coding Boot Camp Completion Certificate</p>
     <h3>Skills</h3>
     <ul>
       <li>HTML</li>
@@ -32,11 +33,10 @@ function Resume() {
       <li>JavaScript</li>
       <li>mySQL</li>
       <li>Sequelize</li>
-      <li>Rest API</li>
+      <li>REST API</li>
       <li>Git</li>
-      <li>JQUERY</li>
-      <li>PWA</li>
       <li>MERN</li>
+      <li>GraphQL</li>
     </ul>
   </section>
 );
