@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/kristina-dukes-react-portfolio/static/css/main.d7225e7a.css",
+    "main.js": "/kristina-dukes-react-portfolio/static/js/main.0cd728dd.js",
+    "static/media/matchmyneeds.png": "/kristina-dukes-react-portfolio/static/media/matchmyneeds.d892fc49cfc37586f0ab.png",
+    "static/media/debugging.png": "/kristina-dukes-react-portfolio/static/media/debugging.997acf8e75cc9d9dcf51.png",
+    "static/media/lookup.png": "/kristina-dukes-react-portfolio/static/media/lookup.f507a43e0da7b2bbe388.png",
+    "static/media/kristina.png": "/kristina-dukes-react-portfolio/static/media/kristina.4427585fafcb6cb2f662.png",
+    "static/media/passwordgenerator.png": "/kristina-dukes-react-portfolio/static/media/passwordgenerator.e400d02c386c757f0ec5.png",
+    "static/media/workdayscheduler copy.png": "/kristina-dukes-react-portfolio/static/media/workdayscheduler copy.8fd3b98de96633a6ecc7.png",
+    "static/media/cinerank.png": "/kristina-dukes-react-portfolio/static/media/cinerank.5fdfa548b9a1258bde96.png",
+    "static/media/codingquiz.png": "/kristina-dukes-react-portfolio/static/media/codingquiz.2a23a0399373e21fc364.png",
+    "index.html": "/kristina-dukes-react-portfolio/index.html",
+    "main.d7225e7a.css.map": "/kristina-dukes-react-portfolio/static/css/main.d7225e7a.css.map",
+    "main.0cd728dd.js.map": "/kristina-dukes-react-portfolio/static/js/main.0cd728dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7225e7a.css",
+    "static/js/main.0cd728dd.js"
+  ]
+}
