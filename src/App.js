@@ -9,7 +9,7 @@ import Home from './components/pages/Home';
 import About from './components/pages/About';
 import Portfolio from './components/pages/Portfolio';
 import Contact from './components/pages/Contact';
-import Resume from './components/pages/Resume';
+import Resume from './components/pages/Resume'; 
 
 const App = () => {
     return (
@@ -18,11 +18,11 @@ const App = () => {
                 <Header />
                 <Navigation/>
                 <Routes>
-                    <Route path='/' component={Home} />
-                    <Route path='/about' component={About} />
-                    <Route path='/portfolio' component={Portfolio} />
-                    <Route path='/resume' component={Resume} />
-                    <Route path='/contact' component={Contact} />
+                    <Route path='/' element={<Home/>} />
+                    <Route path='/about' element={<About/>} />
+                    <Route path='/portfolio' element={<Portfolio/>} />
+                    <Route path='/resume' element={<Resume/>} />
+                    <Route path='/contact' element={<Contact/>} />
                 </Routes>
                 <Footer />
             </div>
