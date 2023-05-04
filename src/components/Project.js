@@ -12,7 +12,7 @@ className="sm:w-1/2 w-100 p-4">
   <img
     alt="gallery"
     className="absolute inset-0 w-full h-full object-cover object-center"
-    src={process.env.PUBLIC_URL+props.image}
+    src={props.image}
     width="400"
     height='300'
   />

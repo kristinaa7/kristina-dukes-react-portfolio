@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "MERN GraphQL Group Project",
     description:
       "A hub for  for requesting items.",
-    image: "assets/images/matchmyneeds.png",
+    image: "",
     link: "https://matchmyneeds.herokuapp.com/",
   },
   {
@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "Group Project",
     description:
       "A social media application for posting and viewing pictures of the sky.",
-    image: "assets/images/lookup.png",
+    image: "../../assets/images/lookup.png",
     link: "https://look-up-project-2.herokuapp.com/",
   },
   {
